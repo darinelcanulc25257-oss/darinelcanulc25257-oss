@@ -1,16 +1,12 @@
-## Hi there 👋
+# ¡hola¡ soy Darinel Alexander Canul Colli 👋
+### 👽sobre mi
 
-<!--
-**darinelcanulc25257-oss/darinelcanulc25257-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 Actualmente estoy estudiando en el Colegio de Estudios Cientificos y Tegnologicos del Estado de Campeche plantel Pomuch en la especialidad de programación.
+- 📚Estoy aprendiendo a promagramar en el lenguaje de Python y a utilizar la terminal en linux mint.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 🔨🎒 # herramientas en mi movhila
+- **sistemas** Linux Mint
+- **Control de versiones:** Git y Github
+  **aprendiendo ahora:** Logica de programación
+  ---
+  *"Mi trabajo en una sola linea: deprimente"*
